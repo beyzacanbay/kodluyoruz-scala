@@ -7,6 +7,10 @@ package dev.akif.kodluyoruz.streetfinder
  */
 object Application {
   def main(args: Array[String]): Unit = {
+    val streetsFilePath: String = "data/streets.csv"
+
+
+
 
   }
 }
